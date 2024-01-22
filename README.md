@@ -1,3 +1,5 @@
-## Hello world
+## Memory Card Game
 
-Just a simple example
+Just create a project on your own. 
+
+You can find all assets related to the project in Images folder.
